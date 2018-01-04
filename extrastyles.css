@@ -1,0 +1,19 @@
+/* I am a student registered to the DSS for having dyspraxia & dyslexia with special learning difficultys.
+The DSS have awarded me a spelling and grammer waver to include in both assignments and tests, for more information
+the Computer Science department should have all my documentation regarding this. */
+.wall {
+  min-height: 7em;
+  background: none;
+}
+@media screen and (min-width: 570px) {
+
+  .wall {
+    min-height: 10em;
+  }
+
+@media screen and (min-width:932px) {
+
+  .wall {
+    min-height: 9em;
+  }
+}
